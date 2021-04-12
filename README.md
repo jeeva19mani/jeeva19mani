@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 💬 How to reach me: jeevamani553@gmail.com
 - 😄 Pronouns: Calm and Charm
 - ⚡ Fun fact: No will read this.
--->
+--> This project is using ombd Api to fetch the movie or series information and display it.
